@@ -1,3 +1,2 @@
-# cs2 settings/config dump
+# cs2 settings/configs/projects dump
 
-use them as you please
