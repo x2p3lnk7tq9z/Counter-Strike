@@ -1,4 +1,4 @@
-# cs2 settings/configs/projects dump
+# cs settings/configs/projects dump
 
 # femboy.kz
 my fav network to practice movement on
