@@ -6,4 +6,5 @@ greate network to practice movement on
 https://femboy.kz/
 https://docs.femboy.kz/
 
-bind "1" "kz_cp"; bind "3" "kz_tp"; bind "j" "kz_noclip"
+bind "1" "kz_cp"; bind "3" "kz_tp"; bind "j" "kz_nc"
+bind "1" "sm_chekcpoint"; bind "3" "sm_gocheck"; bind "j" "sm_nc"
