@@ -1,4 +1,4 @@
-# cs settings/configs/projects dump
+# cs settings/configs/projects
 1920x1080; 1440x1080; 1280x1024; 1080x1080
 # femboy.kz
 greate network to practice movement on
