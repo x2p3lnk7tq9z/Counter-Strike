@@ -1,7 +1,7 @@
 # bleh
 1920x1080; 1440x1080; 1280x1024; 1080x1080
 
-Multisampling Anti-Aliasing Mode:  2X MSAA/n
+Multisampling Anti-Aliasing Mode:  2X MSAA
 Gloabal Shadow Quality:            LOW
 Dynamic Shadows:                   SUN ONLY
 Model / Texture Detail:            LOW
