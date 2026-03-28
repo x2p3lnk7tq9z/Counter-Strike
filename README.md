@@ -1,13 +1,17 @@
-# bleh
-1920x1080; 1440x1080; 1280x1024; 1080x1080
+## Resolutions
+- 1920x1080
+- 1440x1080
+- 1280x1024
+- 1080x1080
 
-Multisampling Anti-Aliasing Mode:  2X MSAA
-Gloabal Shadow Quality:            LOW
-Dynamic Shadows:                   SUN ONLY
-Model / Texture Detail:            LOW
-Texture Filtering Mode:            BILINEAR
-Shader Detail:                     LOW
-Particle Detail:                   LOW
-Ambient Occlusion:                 DISABLED
-High Dynamic Range:                PERFORMANCE
-FidelityFX Super Resolution:       DISABLED [HIGHEST QUALITY]
+## Graphics Settings
+- Multisampling Anti-Aliasing Mode: 2X MSAA
+- Global Shadow Quality: LOW
+- Dynamic Shadows: SUN ONLY
+- Model / Texture Detail: LOW
+- Texture Filtering Mode: BILINEAR
+- Shader Detail: LOW
+- Particle Detail: LOW
+- Ambient Occlusion: DISABLED
+- High Dynamic Range: PERFORMANCE
+- FidelityFX Super Resolution: DISABLED [HIGHEST QUALITY]
