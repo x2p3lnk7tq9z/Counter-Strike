@@ -2,7 +2,7 @@
 - 1440x1080
 - 1280x1024
 - 1080x1080
-
+#
 - Multisampling Anti-Aliasing Mode: 2X MSAA
 - Global Shadow Quality: LOW
 - Dynamic Shadows: SUN ONLY
